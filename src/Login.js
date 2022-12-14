@@ -27,7 +27,7 @@ export default class Login extends Component{
                     <Image source={require('./Tab/Apple.png')}
                     style={styles.Image}>
                     </Image>
-                    <Text style={styles.Text}>Apple</Text>
+                    <Text style={styles.Text}>Learning hub</Text>
                     <TextInput style={styles.TextInput}
                     placeholderTextColor="black"
                     placeholder="username"
@@ -83,8 +83,7 @@ const styles=StyleSheet.create({
         width:100
     },
     Text:{
-        fontSize:35,
-        fontWeight:'bold',
+        fontSize:25,
         marginBottom:40,
         color:'#062e27',
         marginTop:20
