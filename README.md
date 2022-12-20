@@ -2,5 +2,3 @@
 
 npm inastall //
 
-react-native start //
-
